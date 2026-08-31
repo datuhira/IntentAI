@@ -18,7 +18,7 @@ IN/TENT asks a user what they want to accomplish, identifies the kind of work in
 
 ## Demo note
 
-The public demo is connected so employers and other reviewers can try the current workflow. The production backend and abuse protections are not built yet.
+The production backend and abuse protections are not built yet.
 
 Please use **one prompt generation** when testing. One run shows the full experience. If the demo receives abusive traffic, I will remove public access while I finish server-side limits.
 
