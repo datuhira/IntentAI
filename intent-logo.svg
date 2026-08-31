@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="180" viewBox="0 0 720 180" role="img" aria-labelledby="title desc">
+  <title id="title">IN/TENT</title>
+  <desc id="desc">IN/TENT wordmark in white with an orange slash on a dark background.</desc>
+  <rect width="720" height="180" rx="24" fill="#151616"/>
+  <text x="360" y="112" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="78" font-weight="700" letter-spacing="-7">
+    <tspan fill="#f2efe8">IN</tspan><tspan fill="#ff4a1c">/</tspan><tspan fill="#f2efe8">TENT</tspan>
+  </text>
+</svg>
