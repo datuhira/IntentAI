@@ -10,7 +10,6 @@
 
 # IN/TENT: Product Development Log
 
-**Started:** August 30, 2026  
 **Current stage:** Working front-end prototype  
 **Source code:** Private  
 **Role:** Product design, interaction design, front-end development, prompt-system design, and testing
